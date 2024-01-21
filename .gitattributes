@@ -1,3 +1,4 @@
 data/processed/filtered_region/VIKENDI[[:space:]]TAEGO/V_T.csv filter=lfs diff=lfs merge=lfs -text
 data/processed/filtered_region/ERANGEL/ERANGEL.csv filter=lfs diff=lfs merge=lfs -text
 data/processed/filtered_region/MIRAMAR/MIRAMAR.csv filter=lfs diff=lfs merge=lfs -text
+assets/Maps/*.png filter=lfs diff=lfs merge=lfs -text
